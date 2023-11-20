@@ -7,8 +7,6 @@ from node import Node  # "node_module" は実際のモジュール名に置き�
 
 # ロジカルシンキングのピラミッドストラクチャーツリーを作成するPythonアプリケーション
 
-from node import Node
-
 def create_pyramid_structure():
     # テーマの入力とルートノードの作成
     theme = input("テーマを入力してください: ")
